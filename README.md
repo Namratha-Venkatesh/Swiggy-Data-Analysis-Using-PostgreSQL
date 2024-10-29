@@ -3,7 +3,7 @@
 ![image](https://github.com/Namratha-Venkatesh/Swiggy-Data-Analysis-Using-PostgreSQL/assets/130853849/84316da4-c23d-4a40-8f12-189909699669)
 
 
-This README provides an overview of the Swiggy Data Analysis project, which is a completed project for analyzing Swiggy's data using PostgreSQL.
+This README provides an overview of the Swiggy Data Analysis project, which is a completed project for analyzing Swiggy's data using PostgreSQL
 
 ## Introduction
 
